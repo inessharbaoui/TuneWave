@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_song1"
+        android:title="Song 1" />
+    <item
+        android:id="@+id/nav_song2"
+        android:title="Song 2" />
+    <item
+        android:id="@+id/nav_song3"
+        android:title="Song 3" />
+</menu>

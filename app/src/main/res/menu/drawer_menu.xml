@@ -1,0 +1,71 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/song1"
+        android:title="Song 1"
+        android:layout="@layout/menu_item_layout"
+        android:icon="@drawable/ic_music_note"
+        android:titleTextColor="@android:color/white" />
+
+    <item
+        android:id="@+id/song2"
+        android:title="Song 2"
+        android:layout="@layout/menu_item_layout"
+        android:icon="@drawable/ic_music_note"
+        android:titleTextColor="@android:color/white" />
+
+    <item
+        android:id="@+id/song3"
+        android:title="Song 3"
+        android:layout="@layout/menu_item_layout"
+        android:icon="@drawable/ic_music_note"
+        android:titleTextColor="@android:color/white" />
+
+    <item
+        android:id="@+id/song4"
+        android:title="Song 4"
+        android:layout="@layout/menu_item_layout"
+        android:icon="@drawable/ic_music_note"
+        android:titleTextColor="@android:color/white" />
+
+    <item
+        android:id="@+id/song5"
+        android:title="Song 5"
+        android:layout="@layout/menu_item_layout"
+        android:icon="@drawable/ic_music_note"
+        android:titleTextColor="@android:color/white" />
+
+    <item
+        android:id="@+id/song6"
+        android:title="Song 6"
+        android:layout="@layout/menu_item_layout"
+        android:icon="@drawable/ic_music_note"
+        android:titleTextColor="@android:color/white" />
+
+    <item
+        android:id="@+id/song7"
+        android:title="Song 7"
+        android:layout="@layout/menu_item_layout"
+        android:icon="@drawable/ic_music_note"
+        android:titleTextColor="@android:color/white" />
+
+    <item
+        android:id="@+id/song8"
+        android:title="Song 8"
+        android:layout="@layout/menu_item_layout"
+        android:icon="@drawable/ic_music_note"
+        android:titleTextColor="@android:color/white" />
+
+    <item
+        android:id="@+id/song9"
+        android:title="Song 9"
+        android:layout="@layout/menu_item_layout"
+        android:icon="@drawable/ic_music_note"
+        android:titleTextColor="@android:color/white" />
+
+    <item
+        android:id="@+id/song10"
+        android:title="Song 10"
+        android:layout="@layout/menu_item_layout"
+        android:icon="@drawable/ic_music_note"
+        android:titleTextColor="@android:color/white" />
+</menu>
