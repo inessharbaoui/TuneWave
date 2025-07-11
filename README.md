@@ -1,6 +1,6 @@
 # TuneWave
 
-A modern Java-based Android music player app that offers users a smooth and intuitive interface to browse, play, and manage their local music files. TuneWave is designed to deliver a seamless listening experience on mobile devices with essential playback features and a clean user interface.
+A modern Java-based Android music player app that offers users a smooth and intuitive interface to browse, play, and manage their music . TuneWave is designed to deliver a seamless listening experience on mobile devices with essential playback features and a clean user interface.
 
 ## Table of Contents
 
